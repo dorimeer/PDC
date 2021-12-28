@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FowRFHa0jvKqs13F0Bs1SIhZMil9clqSHhVpYwv+NqRWD/ptZWytNOE/FRb2/bNQdvQMU+v+X2Vfr8nOdQbo2Q==",
+  "success": true,
+  "projectFilePath": "D:\\DORI\\uni\\7semestr\\Галкин\\lab1\\lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.2\\microsoft.netframework.referenceassemblies.net48.1.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.servicemodel.primitives\\4.9.0\\system.servicemodel.primitives.4.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
